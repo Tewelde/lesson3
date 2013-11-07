@@ -3,6 +3,7 @@ getwd()
 datdir <- file.path("data")
 datdir <- "data"
 library(rasta)
+
 ## Packages for Reading/Writing/Manipulating Spatial Data
 library(rgdal) # reading shapefiles and raster data
 library(rgeos) # vector manipulations
